@@ -15,9 +15,9 @@ W tym repozytorium znajdziesz przykładowe sprawozdania👩‍🔬 z ćwiczeń, 
 9. [Rejestry i liczniki](./rejestry_i_liczniki.pdf) 🧮
 10. `Liczniki`
 11. [Komutatory (Multipleksery i demultipleksery)](./komutatory.pdf) 🔀
-12. [Elementy komputerowo wspomaganego projektowania automatów cyfrowych](./elementy_komputerowo_wspomaganego_projektowania.pdf) 🖨️
+12. [Elementy komputerowo wspomaganego projektowania automatów cyfrowych](./elementy_komputerowo_wspomaganego_projektowania_automatow_cyfrowych.pdf) 🖨️
 13. `Elementy komputerowo wspomaganego projektowania automatów cyfrowych (część 2)`
-14. [Mikroprogramowane sekwencyjne automaty cyfrowe](./mikroprogramowane_sekwencyjne_automaty_cyfrowe.pdf) 📚
+14. [Mikroprogramowane sekwencyjne automaty cyfrowe](./mikroprogramowalne_sekwencyjne_automaty_cyfrowe.pdf) 📚
 
 
 ### Uwaga
