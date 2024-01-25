@@ -33,6 +33,6 @@ Każdy plik PDF związany z konkretnym ćwiczeniem możesz pobrać, klikając na
 ## Kontakt 📬
 
 Jeśli masz pytania, sugestie lub widzisz błąd, nie wahaj się utworzyć 'Issue' na GitHubie.
-Jeżeli potrzebujesz dedykowanej pomocy, dokumentów w Wordzie oraz dodatkowych narzędzi np. do rysowania wykresów czasowch, 💵 napisz tutaj 💲:
+Jeżeli potrzebujesz dedykowanej pomocy, dokumentów w Wordzie lub dodatkowych narzędzi np. do rysowania wykresów czasowch, 💵 napisz tutaj 💲:
 
 ![kontakt](./kontakt.png)
