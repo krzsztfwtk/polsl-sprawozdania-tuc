@@ -4,20 +4,20 @@ W tym repozytorium znajdziesz przykładowe sprawozdania👩‍🔬 z ćwiczeń, 
 
 ## Ćwiczenia 🔌
 
-1. [Kombinacyjne automaty cyfrowe (Układy sterowania, konwertery kodów, układy z zależnościami czasowymi)](./kombinacyjne_automaty_cyfrowe.pdf) ⛽
+1. [Kombinacyjne automaty cyfrowe (Układy sterowania, konwertery kodów, układy z zależnościami czasowymi)](./sources/kombinacyjne_automaty_cyfrowe.pdf) ⛽
 2. `Konwertery kodów`
-3. [Elementarne automaty sekwencyjne](./elementarne_automaty_sekwencyjne.pdf) ⚙️
-4. [Asynchroniczne automaty sekwencyjne](./asynchroniczne_automaty_sekwencyjne.pdf) 🔄
-5. [Synchroniczne automaty sekwencyjne](./synchroniczne_automaty_sekwencyjne.pdf) ⏱️
-6. [Wybrane układy arytmetyczne](./wybrane_uklady_arytmetyczne.pdf) ➕
-7. [Dynamika układów cyfrowych](./dynamika_ukladow_cyfrowych.pdf) ⚡
+3. [Elementarne automaty sekwencyjne](./sources/elementarne_automaty_sekwencyjne.pdf) ⚙️
+4. [Asynchroniczne automaty sekwencyjne](./sources/asynchroniczne_automaty_sekwencyjne.pdf) 🔄
+5. [Synchroniczne automaty sekwencyjne](./sources/synchroniczne_automaty_sekwencyjne.pdf) ⏱️
+6. [Wybrane układy arytmetyczne](./sources/wybrane_uklady_arytmetyczne.pdf) ➕
+7. [Dynamika układów cyfrowych](./sources/dynamika_ukladow_cyfrowych.pdf) ⚡
 8. `Automaty cyfrowe z zależnościami czasowymi`
-9. [Rejestry i liczniki](./rejestry_i_liczniki.pdf) 🧮
+9. [Rejestry i liczniki](./sources/rejestry_i_liczniki.pdf) 🧮
 10. `Liczniki`
-11. [Komutatory (Multipleksery i demultipleksery)](./komutatory.pdf) 🔀
-12. [Elementy komputerowo wspomaganego projektowania automatów cyfrowych](./elementy_komputerowo_wspomaganego_projektowania_automatow_cyfrowych.pdf) 🖨️
+11. [Komutatory (Multipleksery i demultipleksery)](./sources/komutatory.pdf) 🔀
+12. [Elementy komputerowo wspomaganego projektowania automatów cyfrowych](./sources/elementy_komputerowo_wspomaganego_projektowania_automatow_cyfrowych.pdf) 🖨️
 13. `Elementy komputerowo wspomaganego projektowania automatów cyfrowych (część 2)`
-14. [Mikroprogramowane sekwencyjne automaty cyfrowe](./mikroprogramowalne_sekwencyjne_automaty_cyfrowe.pdf) 📚
+14. [Mikroprogramowane sekwencyjne automaty cyfrowe](./sources/mikroprogramowalne_sekwencyjne_automaty_cyfrowe.pdf) 📚
 
 
 ### Uwaga
