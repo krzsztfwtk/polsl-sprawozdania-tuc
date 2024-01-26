@@ -2,4 +2,4 @@
 !.gitignore
 !*.md
 !*.png
-!sources/*.pdf
+!/sources/*.pdf
