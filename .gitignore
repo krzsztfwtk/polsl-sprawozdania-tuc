@@ -2,4 +2,4 @@
 !.gitignore
 !*.md
 !*.png
-!*/
+!*/*.pdf
