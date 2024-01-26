@@ -19,13 +19,14 @@ W tym repozytorium znajdziesz przykładowe sprawozdania👩‍🔬 z ćwiczeń, 
 13. `Elementy komputerowo wspomaganego projektowania automatów cyfrowych (część 2)`
 14. [Mikroprogramowane sekwencyjne automaty cyfrowe](./sources/mikroprogramowalne_sekwencyjne_automaty_cyfrowe.pdf) 📚
 
+### Uwagi
 
-### Uwaga
-
-**Uwaga:** `Nieaktywne` są te tematy ćwiczeń, które są poruszone w oddzielnych rozdziałach w niżej wymienionym skrypcie, ale na laboratorium zostały zrealizowane w ramach innego ćwiczenia. ⚠️
-
-Tematyka wszystkich ćwiczeń jest szczegółowo omówiona w skrypcie: Małysiak, H. (Red.). (2003). _Teoria Automatów Cyfrowych - Laboratorium_ (wydanie V). Gliwice: Wydawnictwo Politechniki Śląskiej. [Skrypt jest dostępny w bibliotece cyfrowej Politechniki Śląskiej](https://delibra.bg.polsl.pl/dlibra/publication/79830/edition/70831).
-
+- Tematyka wszystkich ćwiczeń jest szczegółowo omówiona w skrypcie: Małysiak, H. (Red.). (2003). _Teoria Automatów Cyfrowych - Laboratorium_ (wydanie V). Gliwice: Wydawnictwo Politechniki Śląskiej. [Skrypt jest dostępny w bibliotece cyfrowej Politechniki Śląskiej](https://delibra.bg.polsl.pl/dlibra/publication/79830/edition/70831).
+- `Nieaktywne` są te tematy ćwiczeń, które są poruszone w oddzielnych rozdziałach w wyżej wymienionym skrypcie, ale na laboratorium zostały zrealizowane w ramach innego ćwiczenia. ⚠️
+- Sposób rysowania schematów dla ćwiczeń _1, 3, 11, 12, 14_ różni się od tego dla ćwiczeń _4, 5, 6, 7, 9_. Sprawozdania te były przesyłane do dwóch różnych prowadzących. Podczas laboratoriów używane były bramki typu TTL, co w praktyce oznaczało osiąganie stanu wysokiego przez pozostawienie niepodłączonego wejścia na bramce. Pierwszy prowadzący (dla ćwiczeń _1, 3, 11, 12, 14_) powoływał się na wytyczne do sporządzania sprawozdań [dostępne na stronie **ZMiTAC**](https://db.zmitac.aei.polsl.pl/GD/sprawozdania.html) _Na schemacie mogą znaleźć się wyłącznie elementy i połączenia, które były faktycznie używane i miały miejsce. (np. jeżeli była używana 2 wejściowa bramka NAND z jednym niepodłączonym wejściem to właśnie taka ma znaleźć się na schemacie (a nie NOT czy NAND z przypiętą „1”)_. Drugi prowadzący (dla ćwiczeń _4, 5, 6, 7, 9_) uznał, że bramki TTL są przestarzałe i należy rysować schematy bez niepodłączonych wejść, gdyż jest to nieprofesjonalne.
+- Dziękuję za zainterowanie, którym cieszy się repozytorium. Jeśli jest dla was przydatne zachęcam do zostawienia gwiazdki.
+- Proszę pisać do mnie z próśbami o `bezinteresowną` pomoc w rozwiązywaniu konkretnych zadań. Jestem zaangażowany w własne projekty i nie dysponuję wystarczającą ilością wolnego czasu, aby `bezinteresownie` pomagać każdemu, kto do mnie napisze w rozwiązywaniu zadań.
+  
 ## Jak Korzystać z Repozytorium ❓
 
 Każdy plik PDF związany z konkretnym ćwiczeniem możesz pobrać, klikając na odpowiedni link powyżej.
