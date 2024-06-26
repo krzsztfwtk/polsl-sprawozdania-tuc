@@ -36,6 +36,6 @@ Każdy plik PDF związany z konkretnym ćwiczeniem możesz pobrać, klikając na
 ## Kontakt 📬
 
 Jeśli masz pytania, sugestie lub widzisz błąd, nie wahaj się utworzyć 'Issue' na GitHubie.
-Jeżeli potrzebujesz dedykowanej pomocy napisz tutaj 💲:
+Jeżeli potrzebujesz dedykowanej pomocy napisz tutaj:
 
 ![kontakt](./kontakt.png)
