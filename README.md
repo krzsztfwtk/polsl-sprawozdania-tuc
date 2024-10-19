@@ -1,5 +1,7 @@
 # polsl-sprawozdania-tuc
 
+*Zobacz też: [polsl-sprawozdania-fizyka](https://github.com/krzsztfwtk/polsl-sprawozdania-fizyka)*
+
 W tym repozytorium znajdziesz przykładowe sprawozdania👩‍🔬 z ćwiczeń, realizowanych na laboratoriach teorii układów cyfrowych🔢 na Informatyce💻 - Semestr 3 na Politechnice Śląskiej🎓. Dodaję tu tylko sprawdzone i ocenione pozytywnie sprawozdania✅.
 
 ## Ćwiczenia 🔌
