@@ -44,3 +44,18 @@ Jeśli masz pytania, sugestie lub widzisz błąd, nie wahaj się utworzyć 'Issu
 Jeżeli potrzebujesz dedykowanej pomocy napisz tutaj:
 
 ![kontakt](./kontakt.png)
+
+## Licencja i zasady użytkowania
+
+Celem udostępnienia tych materiałów jest wspieranie zdobywania wiedzy, a nie zachęcanie do nieuczciwości na studiach.
+
+### Możesz
+
+- Przeglądać materiały i korzystać z nich w celach edukacyjnych.
+- Wykorzystywać materiały jako inspirację do własnych projektów lub nauki.
+
+### Nie możesz
+
+- Kopiować i przedstawiać tych materiałów jako własne.
+- Rozpowszechniać materiałów bez odpowiedniego uznania autorstwa.
+- Składać tych treści jako własne prace w ramach studiów lub innych obowiązków akademickich.
