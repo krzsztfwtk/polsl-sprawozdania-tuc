@@ -31,7 +31,7 @@ W tym repozytorium znajdziesz przykładowe sprawozdania👩‍🔬 z ćwiczeń, 
 - Najlepiej wykonane są sprawozdania do tematów 11, 5, 7, 9
 - Najgorzej wykonane jest sprawozdanie do tematu 12
 
-> ![Average TUC student](./meme.png)
+![Average TUC student](./meme.webp)
 > Rysunek przedstawia studenta 3. semestru, który pierwszy raz czyta wytyczne do sporządzania sprawozdań (na telefonie wyświetlane są zrzuty ekranu, ponieważ dostęp do strony ZMiTAC wymaga specjalnej konfiguracji).
 
 ## Jak Korzystać z Repozytorium ❓
@@ -43,7 +43,7 @@ Każdy plik PDF związany z konkretnym ćwiczeniem możesz pobrać, klikając na
 Jeśli masz pytania, sugestie lub widzisz błąd, nie wahaj się utworzyć 'Issue' na GitHubie.
 Jeżeli potrzebujesz dedykowanej pomocy napisz tutaj:
 
-![kontakt](./kontakt.png)
+![kontakt](./kontakt.webp)
 
 ## Licencja i zasady użytkowania
 
